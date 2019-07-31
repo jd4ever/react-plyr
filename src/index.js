@@ -355,7 +355,7 @@ class Plyr extends Component {
           kind={kind}
           label={label}
           src={src}
-          srclang={srclang}
+          srcLang={srclang}
           default={def}
           {...attributes}
           ref={this.elementRef}
